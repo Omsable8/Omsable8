@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Om Sable! 
 
 🎓 **Currently:**  
-- B.Tech Computer Engineering, Semester VII @ NMIMS
+- Research Intern at Indian Institute of Technology, Bombay
+- B.Tech Computer Engineering, Semester VIII @ NMIMS
 
 ---
 
@@ -11,17 +12,19 @@
 - **Web:** Flask, Node.js (basics), React, MySQL, CouchDB, Nginx, Kafka
 - **Dev Tools:** Docker, Docker Compose
 - **Python Libraries:** tkinter, OpenAI, numpy, pandas, scikit-learn, pygame  
+- **Cloud:** Amazon Web Services (AWS), EC2, RDS, etc.
 - **Interests:** DSA, AI/ML, Game Development, Data Analysis & Visualization
 
 ---
 
 ## 🚀 Projects
 
-- **[Supercode_hackX (Insurance Website/Event Manager)](https://github.com/Omsable8/Supercode_hackX):**  
-  Major college project featuring robust event management and insurance functionalities.
+- **[MAPLE - Mode based AI assisted Learning and programming environment](https://github.com/Omsable8/web-ide/tree/aws):**  
+  My current research project. Research paper recently got accepted in International conference of AI in Education (AIED 2026). Basically an IDE for novice programmers to learn as well as for comptitive programming. Includes a visual debugger, AI assisted error simplifier, pedagogically prompted AI chatbot, and other industry grade editor features. 
 
+- **[Q-Genius: A smart AI based MCQ generation tool](https://github.com/Omsable8/Q-Genius):**  Generates 10,11,12th Grade physics, chemistry, maths or biology questions and its corresponding 4 options using a carefully system prompted AI. The 4 options generated are done using a framework proposed in a research paper: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_98 
 - **[PIDetect (Echelon)](https://github.com/Omsable8/echelon):**  
-  Innovative project focusing on pipelines and instruments detection and interpretation in complex P&ID diagrams for engineers.
+  Part of a college hackathon. Innovative project focusing on pipelines and instruments detection and interpretation in complex P&ID diagrams for engineers.
 
 ---
 
